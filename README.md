@@ -36,6 +36,10 @@ The following critical vulnerabilities were identified and documented:
 | VULN-002         | Stored Cross-Site Scripting (XSS)   | High     | [View Report](./vulnerability-reports/XSS-Report.md)          |
 
 ---
+![zap operations](image-1.png)
+
+![final-result](image.png)
+
 
 ## Conclusion & Key Learnings
 This project provided hands-on experience in the core duties of an Application Security Engineer. Key takeaways include the effectiveness of combining automated scanning with manual testing to uncover critical flaws, the importance of clear and detailed documentation, and the process of translating technical risks into business impact.
